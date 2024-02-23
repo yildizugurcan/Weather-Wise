@@ -1,6 +1,6 @@
 # WEATHER WİSE 
   
-## CANLI ANLIK HAVA DURUMU UYGULAMASI
+## CANLI HAVA DURUMU UYGULAMASI
 
  - Bloc yapısı kullanılarak tasarlanmış bir canlı hava durumu uygulamasıdır.
 
